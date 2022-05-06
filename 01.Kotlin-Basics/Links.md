@@ -1,0 +1,2 @@
+[https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab](https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab)
+[https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
